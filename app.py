@@ -3,7 +3,7 @@ import math
 
 app = Flask(__name__)
 
-VERSION = "v1"
+VERSION = "v2"
 
 # Tiny SAP FICO-style sample data
 records = [
